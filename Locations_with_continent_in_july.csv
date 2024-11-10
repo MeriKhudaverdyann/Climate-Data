@@ -1,0 +1,197 @@
+,Cluster,location_name,country,continent
+0,0,Lusaka,Zambia,Africa
+1,0,Mbabane,Eswatini,Africa
+2,0,Maseru,Lesotho,Africa
+3,0,Maputo,Mozambique,Africa
+4,0,Manama,Bahrain,Asia
+5,0,Madrid,Spain,Europe
+6,0,Yerevan,Armenia,Asia
+7,0,Luanda,Angola,Africa
+8,0,Lom,Bulgaria,Europe
+9,0,Lisbon,Portugal,Europe
+10,0,Lilongwe,Malawi,Africa
+11,0,Kyiv,Ukraine,Europe
+12,0,Mogadishu,Somalia,Africa
+13,0,Kuwait City,Kuwait,Asia
+14,0,Kigali,Rwanda,Africa
+15,0,Khartoum,Sudan,Africa
+16,0,Kabul,Afghanistan,Asia
+17,0,Juba,Sudan,Africa
+18,0,Jerusalem,Israel,Asia
+19,0,Ivory,Madagascar,Africa
+20,0,Islamabad,Pakistan,Asia
+21,0,Harare,Zimbabwe,Africa
+22,0,Gaborone,Botswana,Africa
+23,0,Dushanbe,Tajikistan,Asia
+24,0,Doha,Qatar,Asia
+25,0,Kinshasa,Democratic Republic of the Congo,Africa
+26,0,Moscow,Russia,Europe
+27,0,Muscat,Oman,Asia
+28,0,N'djamena,Chad,Africa
+29,0,Yaren,Türkiye,Asia
+30,0,Windhoek,Namibia,Africa
+31,0,Warsaw,Poland,Europe
+32,0,Vienna,Austria,Europe
+33,0,Vatican City,Italy,Europe
+34,0,Valletta,Malta,Europe
+35,0,Tunis,Tunisia,Africa
+36,0,Tirana,Albania,Europe
+37,0,Tehran,Iran,Asia
+38,0,Tbilisi,Georgia,Asia
+39,0,Tashkent,Uzbekistan,Asia
+40,0,Sofia,Bulgaria,Europe
+41,0,Skopje,North Macedonia,Europe
+42,0,Sarajevo,Bosnia and Herzegovina,Europe
+43,0,Sanaa,Yemen,Asia
+44,0,San Marino,San Marino,Europe
+45,0,Rome,Italy,Europe
+46,0,Riyadh,Saudi Arabia,Asia
+47,0,Rabat,Morocco,Africa
+48,0,Pretoria,South Africa,Africa
+49,0,Podgorica,Montenegro,Europe
+50,0,Ouagadougou,Burkina Faso,Africa
+51,0,Nouakchott,Mauritania,Africa
+52,0,Nicosia,Cyprus,Asia
+53,0,Niamey,Niger,Africa
+54,0,Dodoma,Tanzania,Africa
+55,0,Djibouti,Djibouti,Africa
+56,0,Zagreb,Croatia,Europe
+57,0,Ankara,Türkiye,Asia
+58,0,Bratislava,Slovakia,Europe
+59,0,Brazzaville,Republic of the Congo,Africa
+60,0,Bishkek,Kyrgyzstan,Asia
+61,0,Ashgabat,Turkmenistan,Asia
+62,0,Baghdad,Iraq,Asia
+63,0,Bucharest,Romania,Europe
+64,0,Budapest,Hungary,Europe
+65,0,Baku,Azerbaijan,Asia
+66,0,Bujumbura,Burundi,Africa
+67,0,Cairo,Egypt,Africa
+68,0,Bohot,Bulgaria,Europe
+69,0,Belgrade,Serbia,Europe
+70,0,Beirut,Lebanon,Asia
+71,0,Chi Chi Khvar,Iran,Asia
+72,0,Athens,Greece,Europe
+73,0,Amman,Jordan,Asia
+74,0,Algiers,Algeria,Africa
+75,0,Abu Dhabi,United Arab Emirates,Asia
+76,0,Damascus,Syria,Asia
+77,1,Porto-Novo,Benin,Africa
+78,1,San Salvador,El Salvador,North America
+79,1,Aurora,Paraguay,South America
+80,1,San Ignacio,Costa Rica,North America
+81,1,Saint John's,Antigua and Barbuda,North America
+82,1,Paris,France,Europe
+83,1,Phnom Penh,Cambodia,Asia
+84,1,Saint George's,Grenada,North America
+85,1,Roseau,Dominica,North America
+86,1,Bandar Seri Begawan,Brunei,Asia
+87,1,Port Moresby,Papua New Guinea,Oceania
+88,1,Prague,Czechia,Europe
+89,1,Port Of Spain,Trinidad and Tobago,North America
+90,1,Riga,Latvia,Europe
+91,1,Bamako,Mali,Africa
+92,1,Quito,Ecuador,South America
+93,1,Port Royal,Jamaica,North America
+94,1,Port Vila,Vanuatu,Oceania
+95,1,Pyongyang,North Korea,Asia
+96,1,Port-Au-Prince,Haiti,North America
+97,1,Ban Lom,Vietnam,Asia
+98,1,Praia,Cabo Verde,Africa
+99,1,Port Louis,Mauritius,Africa
+100,1,Dhidhdhoo,Maldives,Asia
+101,1,Singapore,Singapore,Asia
+102,1,Astana,Kazakhstan,Asia
+103,1,Yangon,Myanmar (Burma),Asia
+104,1,Abuja,Nigeria,Africa
+105,1,Wellington,New Zealand,Oceania
+106,1,Washington Harbor,United States,North America
+107,1,Accra,Ghana,Africa
+108,1,Vilnius,Lithuania,Europe
+109,1,Addis Ababa,Ethiopia,Africa
+110,1,Victoria,Seychelles,Africa
+111,1,Vestmannaeyjar,Iceland,Europe
+112,1,Vaduz,Liechtenstein,Europe
+113,1,Ulaanbaatar,Mongolia,Asia
+114,1,Amsterdam,Netherlands,Europe
+115,1,Santo Domingo,Dominican Republic,North America
+116,1,Tokyo,Japan,Asia
+117,1,Thimphu,Bhutan,Asia
+118,1,Tegucigalpa,Honduras,North America
+119,1,Antananarivo,Madagascar,Africa
+120,1,Apia,Samoa,Oceania
+121,1,Tarawa,Kiribati,Oceania
+122,1,Tallinn,Estonia,Europe
+123,1,Suva,Fiji,Oceania
+124,1,Sucre,Bolivia,South America
+125,1,Stockholm,Sweden,Europe
+126,1,Asmara,Eritrea,Africa
+127,1,Paramaribo,Suriname,South America
+128,1,Seoul,South Korea,Asia
+129,1,Andorra La Vella,Andorra,Europe
+130,1,Panama City,Panama,North America
+131,1,Bangui,Central African Republic,Africa
+132,1,Bangkok,Thailand,Asia
+133,1,Bridgetown,Barbados,North America
+134,1,Lima,Peru,South America
+135,1,Brussels,Belgium,Europe
+136,1,Libreville,Gabon,Africa
+137,1,Laos,Indonesia,Asia
+138,1,Koror,Palau,Oceania
+139,1,Buenos Aires,Argentina,South America
+140,1,Kingstown,Saint Vincent and the Grenadines,North America
+141,1,Kathmandu,Nepal,Asia
+142,1,Kampala,Uganda,Africa
+143,1,Canberra,Australia,Oceania
+144,1,Caracas,Venezuela,South America
+145,1,Castries,Saint Lucia,North America
+146,1,Colombo,Sri Lanka,Asia
+147,1,Honiara,Solomon Islands,Oceania
+148,1,Helsinki,Finland,Europe
+149,1,Havana,Cuba,North America
+150,1,Conakry,Guinea,Africa
+151,1,Hanoi,Vietnam,Asia
+152,1,Guatemala City,Guatemala,North America
+153,1,Georgetown,Guyana,South America
+154,1,Copenhagen,Denmark,Europe
+155,1,Funafuti,Tuvalu,Oceania
+156,1,Freetown,Sierra Leone,Africa
+157,1,Dakar,Senegal,Africa
+158,1,Dublin,Ireland,Europe
+159,1,Dhaka,Bangladesh,Asia
+160,1,Ljubljana,Slovenia,Europe
+161,1,Palikir,Micronesia,Oceania
+162,1,London,United Kingdom,Europe
+163,1,Luxembourg,Luxembourg,Europe
+164,1,Ottawa,Canada,North America
+165,1,Oslo,Norway,Europe
+166,1,Nuku'alofa,Tonga,Oceania
+167,1,Dili,Timor-Leste,Asia
+168,1,Banjul,The Gambia,Africa
+169,1,Basseterre,Saint Kitts and Nevis,North America
+170,1,Ngaoundere,Cameroon,Africa
+171,1,New Delhi,India,Asia
+172,1,National,Bolivia,South America
+173,1,Nassau,The Bahamas,North America
+174,1,Nan,Thailand,Asia
+175,1,Nairobi,Kenya,Africa
+176,1,Moroni,Comoros,Africa
+177,1,Bras,Brazil,South America
+178,1,'S Gravenjansdijk,Belgium,Europe
+179,1,Monrovia,Liberia,Africa
+180,1,Monaco,Monaco,Europe
+181,1,Belmopan,Belize,North America
+182,1,Minsk,Belarus,Europe
+183,1,Mexico City,Mexico,North America
+184,1,Berlin,Germany,Europe
+185,1,Bern,Switzerland,Europe
+186,1,Montevideo,Uruguay,South America
+187,1,Manila,Philippines,Asia
+188,1,Bissau,Guinea-Bissau,Africa
+189,1,Managua,Nicaragua,North America
+190,1,Malabo,Equatorial Guinea,Africa
+191,1,Majuro,Marshall Islands,Oceania
+192,2,Santiago,Chile,South America
+193,2,Kuala Lumpur,Malaysia,Asia
+194,2,Beijing,China,Asia
+195,2,Jakarta,Indonesia,Asia
